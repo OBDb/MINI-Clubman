@@ -10,6 +10,9 @@ test_cases:
     MINI_VSS: 2.1
   response: 660F10562D1070015
 - expected_values:
+    MINI_VSS: 2.7
+  response: 660F10562D107001B
+- expected_values:
     MINI_VSS: 7.3
   response: 660F10562D1070049
 - expected_values:
