@@ -1,0 +1,34 @@
+command_id: 6F1.618.22DA37|e=18,fc=1
+test_cases:
+- expected_values:
+    MINI_TIME_D: 0
+    MINI_TIME_M: 151
+    MINI_TIME_S: 134
+  response: |-
+    618F1100F62DA370086
+    618F12197C400001F93
+    618F12200001C24FFFF
+- expected_values:
+    MINI_TIME_D: 0
+    MINI_TIME_M: 152
+    MINI_TIME_S: 134
+  response: |-
+    618F1100F62DA370086
+    618F121981F00001F93
+    618F12200001C24FFFF
+- expected_values:
+    MINI_TIME_D: 0
+    MINI_TIME_M: 153
+    MINI_TIME_S: 134
+  response: |-
+    618F1100F62DA370086
+    618F121993000001F93
+    618F12200001C24FFFF
+- expected_values:
+    MINI_TIME_D: 0
+    MINI_TIME_M: 153
+    MINI_TIME_S: 134
+  response: |-
+    618F1100F62DA370086
+    618F12199B400001F93
+    618F12200001C24FFFF
