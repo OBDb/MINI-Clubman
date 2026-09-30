@@ -1,0 +1,22 @@
+command_id: 6F1.640.221700|e=40,fc=1
+test_cases:
+- expected_values:
+    MINI_ODO_2: 37017
+  response: |-
+    640F110076217000000
+    640F1219099FFFFFFFF
+- expected_values:
+    MINI_ODO_2: 37024
+  response: |-
+    640F110076217000000
+    640F12190A0FFFFFFFF
+- expected_values:
+    MINI_ODO_2: 37134
+  response: |-
+    640F110076217000000
+    640F121910EFFFFFFFF
+- expected_values:
+    MINI_ODO_2: 39101
+  response: |-
+    640F110076217000000
+    640F12198BDFFFFFFFF

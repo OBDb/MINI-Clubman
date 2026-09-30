@@ -1,0 +1,14 @@
+command_id: 6F1.612.22582F|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_CAT_T: 306.45
+  response: 612F10562582F16A4
+- expected_values:
+    MINI_CAT_T: 419.55
+  response: 612F10562582F1B0F
+- expected_values:
+    MINI_CAT_T: 468.65
+  response: 612F10562582F1CFA
+- expected_values:
+    MINI_CAT_T: 545.25
+  response: 612F10562582F1FF8

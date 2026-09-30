@@ -1,0 +1,7 @@
+command_id: 6F1.612.22558E|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_ODO_DME: 38531
+  response: |-
+    612F1100762558E0000
+    612F1219683FFFFFFFF

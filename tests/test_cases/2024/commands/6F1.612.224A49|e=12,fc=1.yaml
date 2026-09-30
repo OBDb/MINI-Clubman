@@ -1,0 +1,32 @@
+command_id: 6F1.612.224A49|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_IGN_TIMING_1: 2
+  response: 612F105624A490014
+- expected_values:
+    MINI_IGN_TIMING_1: 3.8
+  response: 612F105624A490026
+- expected_values:
+    MINI_IGN_TIMING_1: 4.2
+  response: 612F105624A49002A
+- expected_values:
+    MINI_IGN_TIMING_1: 4.5
+  response: 612F105624A49002D
+- expected_values:
+    MINI_IGN_TIMING_1: 5.2
+  response: 612F105624A490034
+- expected_values:
+    MINI_IGN_TIMING_1: 6.1
+  response: 612F105624A49003D
+- expected_values:
+    MINI_IGN_TIMING_1: 16
+  response: 612F105624A4900A0
+- expected_values:
+    MINI_IGN_TIMING_1: 16.5
+  response: 612F105624A4900A5
+- expected_values:
+    MINI_IGN_TIMING_1: -24.9
+  response: 612F105624A49FF07
+- expected_values:
+    MINI_IGN_TIMING_1: -22.7
+  response: 612F105624A49FF1D
