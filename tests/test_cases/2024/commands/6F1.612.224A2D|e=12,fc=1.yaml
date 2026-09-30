@@ -1,0 +1,14 @@
+command_id: 6F1.612.224A2D|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_MAP: 91.54688
+  response: 612F105624A2D2DC6
+- expected_values:
+    MINI_MAP: 91.58594
+  response: 612F105624A2D2DCB
+- expected_values:
+    MINI_MAP: 92.50781
+  response: 612F105624A2D2E41
+- expected_values:
+    MINI_MAP: 98.60156
+  response: 612F105624A2D314D
