@@ -1,0 +1,17 @@
+command_id: 6F1.612.22442C|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_OIL_LEVEL: 38
+  response: 612F10462442C26
+- expected_values:
+    MINI_OIL_LEVEL: 43
+  response: 612F10462442C2B
+- expected_values:
+    MINI_OIL_LEVEL: 47
+  response: 612F10462442C2F
+- expected_values:
+    MINI_OIL_LEVEL: 48
+  response: 612F10462442C30
+- expected_values:
+    MINI_OIL_LEVEL: 50
+  response: 612F10462442C32

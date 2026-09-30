@@ -1,0 +1,11 @@
+command_id: 6F1.612.22480C|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_LOAD_TGT: 14.15625
+  response: 612F10562480C025C
+- expected_values:
+    MINI_LOAD_TGT: 23.29688
+  response: 612F10562480C03E2
+- expected_values:
+    MINI_LOAD_TGT: 79.24219
+  response: 612F10562480C0D35

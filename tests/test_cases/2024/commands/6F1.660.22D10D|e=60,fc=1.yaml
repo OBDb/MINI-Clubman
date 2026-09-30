@@ -1,0 +1,32 @@
+command_id: 6F1.660.22D10D|e=60,fc=1
+test_cases:
+- expected_values:
+    MINI_ODO: 37018
+    MINI_ODO_ALT: 37018
+  response: |-
+    660F1100B62D10D0000
+    660F121909A0000909A
+- expected_values:
+    MINI_ODO: 37024
+    MINI_ODO_ALT: 37024
+  response: |-
+    660F1100B62D10D0000
+    660F12190A0000090A0
+- expected_values:
+    MINI_ODO: 37039
+    MINI_ODO_ALT: 37039
+  response: |-
+    660F1100B62D10D0000
+    660F12190AF000090AF
+- expected_values:
+    MINI_ODO: 37163
+    MINI_ODO_ALT: 37163
+  response: |-
+    660F1100B62D10D0000
+    660F121912B0000912B
+- expected_values:
+    MINI_ODO: 39101
+    MINI_ODO_ALT: 39101
+  response: |-
+    660F1100B62D10D0000
+    660F12198BD000098BD

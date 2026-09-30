@@ -1,0 +1,14 @@
+command_id: 6F1.612.2256D7|e=12,fc=1
+test_cases:
+- expected_values:
+    MINI_FRP: 136.28
+  response: 612F1056256D71A9E
+- expected_values:
+    MINI_FRP: 152.84
+  response: 612F1056256D71DDA
+- expected_values:
+    MINI_FRP: 179.48
+  response: 612F1056256D7230E
+- expected_values:
+    MINI_FRP: 352.42
+  response: 612F1056256D744D5
